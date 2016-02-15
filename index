@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Quatro Rodas</title>
+
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+				<img alt="Logo Quatro Rodas" src="img/logo.png">
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<nav class="navbar navbar-default" role="navigation">
+					<div class="navbar-header">
+					</div>
+
+					<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav">
+							<li class="dropdown">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown">Carros<strong class="caret"></strong></a>
+								<ul class="dropdown-menu">
+									<li>
+										<a href="#">Submenu 1</a>
+									</li>
+									<li>
+										<a href="#">Submenu 2</a>
+									</li>
+								</ul>
+							</li>
+						</ul>
+						<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Testes<strong class="caret"></strong></a>
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#">Submenu 1</a>
+										</li>
+										<li>
+											<a href="#">Submenu 2</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+							<ul class="nav navbar-nav">
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Notícias<strong class="caret"></strong></a>
+									<ul class="dropdown-menu">
+										<li>
+											<a href="#">Submenu 1</a>
+										</li>
+										<li>
+											<a href="#">Submenu 2</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+							<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav">
+									<li class="dropdown">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown">Auto-Serviço<strong class="caret"></strong></a>
+										<ul class="dropdown-menu">
+											<li>
+												<a href="#">Submenu 1</a>
+											</li>
+											<li>
+												<a href="#">Submenu 2</a>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+								<ul class="nav navbar-nav">
+									<li>
+										<a href="#">Guia de Compras</a>
+									</li>
+								</ul>
+							</div>
+							<form class="navbar-form navbar-right" role="search">
+								<div class="form-group">
+									<input type="text" class="form-control" placeholder="Pesquisar">
+								</div> 
+							</form>
+							</div>
+							</nav>
+							<nav class="navbar navbar-default" role="navigation">
+								<div class="navbar-header">				
+									<div class="navbar-collapse collapse in" id="bs-example-navbar-collapse-1">
+										<ul class="nav navbar-nav">
+											<li class="active">
+												<a href="#">+Acessados</a>
+											</li>
+											<li>
+												<a href="#">Salão do Automóvel</a>
+											</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Renegade</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Novo Sandero</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Novo Fox</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Novo Kia</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">HB 20</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Duster</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Golf</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Corolla</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">Civic</a>
+												</li>
+											<ul class="nav navbar-nav navbar-right">
+												<li>
+													<a href="#">| A-Z |</a>
+												</li>
+											</ul>
+									</div>	
+								</nav>
+							</div>
+						</div>
+						<div class="row">
+						<div class="col-md-12">
+							<img alt="Bmw" src="img/bmw_azul.png"><img alt="Sportage" src="img/sportage.png"><img alt="Novo Fusca" src="img/novo_fusca.png"><img alt="Porsche" src="img/porsche.png"><img alt="Tiguan" src="img/tiguan.png">
+						</div>
+						</div>
+						<br/>
+						<br/>
+						<div class="row">
+							<div class="col-md-4">
+								<img alt="Audi X Mercedes" src="img/audiXmercedes.png">
+									<h4>
+										AUDI S3 X MERCEDES-BENZ CLA 45 AMG
+									</h4>
+									<p>
+										Pista livre para o embate entre os dois cometas de cauda curta
+									</p>
+									<p>
+										<a class="btn" href="#">+ Troller T4 X Jeep Renegade</a>
+									</p>
+						</div>
+						<div class="col-md-4">
+							<img alt="Nissan" src="img/nissangtx.png">
+								<h4>
+									NISSAN GT-R
+								</h4>
+								<p>
+									Pilotamos o Godzilla, o monstro recordsta de Nürburgring que assombra os alemães
+								</p>
+								<p>
+									<a class="btn" href="#">+ Troller T4 X Jeep Renegade</a>
+								</p>
+						</div>
+						<div class="col-md-4">
+							<img alt="BMW Series 2" src="img/bmw2.png">
+								<h4>
+									BMW SÉRIE 2 ACTIVE TOURER
+								</h4>
+								<p>
+									Pista livre para o embate entre os dois cometas de cauda curta
+								</p>
+								<p>
+									<a class="btn" href="#">+ Troller T4 X Jeep Renegade</a>
+								</p>
+						</div>
+						<div class="col-md-4">
+							<img alt="Malibu" src="img/malibu.png">
+								<h4>
+									CHEVROLET MOSTRA NOVA GERAÇÃO DO MALIBU
+								</h4>
+								<p>
+									Sedã perdeu 136kg e ampliou o espaço entre-exos
+								</p>
+								<p>
+									<a class="btn" href="#">+ Troller T4 X Jeep Renegade</a>
+								</p>
+						</div>
+				</div>
+			</div>
+			
+			<script src="js/jquery.min.js"></script>
+			<script src="js/bootstrap.min.js"></script>
+			<script src="js/scripts.js"></script>
+		</body>
+</html>
